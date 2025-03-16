@@ -1,4 +1,8 @@
-1.2.0
-- Added new UI
-- Fixed server crash issue
-- Optimized performance
+- New UI: Improved UI design for a better experience.
+- Multiple Framework Support: Now supports QBCore, ESX, and QBOX.
+- Multiple Inventory & Target Support: Works with qb-inventory, ox_inventory, etc.
+- Job Generate Time: Easier configuration for job creation intervals.
+- Total Job Limit: Set a maximum number of generated jobs in the config.
+- Item Name Changes: Adjusted to prevent conflicts with other items.
+- Version Check:Added a system to check for script updates.
+- Bridge System: Introduced kael-bridge for easier script customization.
