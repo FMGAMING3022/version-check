@@ -1,0 +1,4 @@
+1.2.0
+- Added new UI
+- Fixed server crash issue
+- Optimized performance
