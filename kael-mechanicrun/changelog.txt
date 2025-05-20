@@ -1,4 +1,4 @@
-- Multiple Delivery Locations – Easily configure and support several drop-off points.
+- Added Multiple Location Option.
 - Blip Toggle Support – Enable or disable map blips through config.
 - Flexible Reward System – Rewards can now go to player accounts or society accounts.
 - Framework Bridge Added – Now compatible with any framework through a clean bridge system.
