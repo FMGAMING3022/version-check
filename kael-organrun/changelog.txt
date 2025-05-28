@@ -1,0 +1,12 @@
+**Night Mission Timing**: Rewritten night-time check logic for improved reliability.
+**Access Restrictions**: Added support for **job or gang-based mission access**. If both are disabled, the mission runs as **standalone**.
+**Key System Overhaul**:
+* `GiveKey` function rewritten and moved to `open.lua`.
+* `RemoveKey` function added for better key handling.
+**Dependency Cleanup**: Removed `ultra-voltlab` as a dependency.
+**Hack System Upgrades**:
+* Now supports multiple hacking systems: `ps-ui`, `ultra-voltlab`, and `mhacking`.
+* You can switch the system easily via `open.lua`.
+ **NPC Improvements**: Seller NPC is now frozen to prevent unintended movement.
+**Waypoint Handling**: Remove Setwaypoint Native.
+**Version Checker**: Added a built-in version check for future updates.
