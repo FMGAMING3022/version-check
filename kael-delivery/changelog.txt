@@ -1,1 +1,3 @@
-- Delivery: Delivery Item Check For QBox Fixed
+Docs Integration: Added in-game Docs HTML link — opens full documentation in your browser!
+ESX Player Name Display: Fixed issue with `CharInfo` error not displaying player name correctly on UI (ESX only).
+Item Name Display Fix: Resolved item name display issues when using `ox_inventory` on ESX/Qbox. Logic fully rewritten for better compatibility.
