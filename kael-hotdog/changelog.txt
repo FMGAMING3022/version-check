@@ -1,0 +1,4 @@
+- Config Rewrite: Fully restructured configuration system for easier customization and cleaner setup.
+- Multi-Framework Support: Added full compatibility for QBOX and ESX frameworks.
+- Multi-Target Support: Works with QB-Target and OX-Target out of the box.
+- Multi-Inventory Support: Compatible with QB-Inventory, OX-Inventory, and more custom inventory systems.
